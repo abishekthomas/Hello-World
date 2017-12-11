@@ -13,7 +13,7 @@ git commit -m "Description"<br />
 git push origin<br />
 
 # online.html
-I created this file on github account by clicking create new file button. Then i wrote the code to donload/get local copy on my machine.
+I created this file on github account by clicking create new file button. Then i wrote the code to download/get local copy.
 
 git pull origin 
 
