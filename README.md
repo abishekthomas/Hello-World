@@ -1,5 +1,5 @@
 # Hello World
-A basic html file which is created as part of github learning assgnment.
+A basic html file which is created as part of github learning assignment.
 
 # List of Files 
 1. index.html
